@@ -3,7 +3,7 @@
 ### 30 Days of Code
 | Day | Problem | Solution |
 | :---: | :---: | :---: |
-//| Day | []() | [Java]() |
+<!| Day | []() | [Java]() |>
 | Day 0	| [Hello, World.](https://www.hackerrank.com/challenges/30-hello-world)	| [Java]() |
 | Day 1 | [Data Types](https://www.hackerrank.com/challenges/30-data-types) | [Java](https://git.io/JvF39) |
 | Day 2 | [Operators](https://www.hackerrank.com/challenges/30-operators) | [Java](https://git.io/JvF37) |
